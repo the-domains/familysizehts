@@ -1,0 +1,28 @@
+name: FamilySizeHTS
+favicon: null
+layout_spectrum: 0.5496815545484424
+typography_spectrum: 0.16960989660583436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2803825626615435
+  lightness: 0.43558953725732863
+  saturation: 0.38386869756504893
+  rhythmicContrast: 0.493107836227864
+purpose: []
