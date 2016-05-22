@@ -1,4 +1,4 @@
-name: FamilySizeHTS
+name: Business
 favicon: null
 layout_spectrum: 0.82261
 typography_spectrum: 0.16960989660583436
@@ -19,11 +19,11 @@ color:
   brandColors:
     - '#ffffff'
     - '#000000'
-    - '#c3282e'
-    - '#01d800'
-    - '#e9d900'
-  brandStrength: 0.2803825626615435
-  lightness: 0.43558953725732863
-  saturation: 0.38386869756504893
+    - '#8f8f8f'
+    - '#00db00'
+    - '#be2a2b'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.493107836227864
 purpose: []
