@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Family Size HTS]]></title>
         <description><![CDATA[Family Size HTS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/familysizehts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 23:53:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 23:59:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/familysizehts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Because our name really says it all.]]></title>
-            <description><![CDATA[<article><h1>Because our name really says it all.</h1><p>We deliver professional quality service to you, your family, and your small business, solving technology problems at your location and on your schedule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84b2f90fd8277cd952df95aae3184394c7739a4a.jpg"></article>]]></description>
-            <link>undefinedbecause-our-name-really-says-it-all/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84b2f90fd8277cd952df95aae3184394c7739a4a.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/familysizehts/because-our-name-really-says-it-all/index.html</link>
             <guid isPermaLink="false">1618361f-3c11-419f-a6d3-bf1c061026a8</guid>
-            <pubDate>Sun, 22 May 2016 23:53:50 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 23:59:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
