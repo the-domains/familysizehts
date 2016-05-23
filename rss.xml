@@ -4,7 +4,7 @@
         <description><![CDATA[Family Size HTS]]></description>
         <link>https://thegrid.ai/familysizehts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 23:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 00:14:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/familysizehts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Because our name really says it all.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/familysizehts/because-our-name-really-says-it-all/index.html</link>
             <guid isPermaLink="false">1618361f-3c11-419f-a6d3-bf1c061026a8</guid>
             <pubDate>Sun, 22 May 2016 23:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Family Size exist?]]></title>
+            <description><![CDATA[<article><h1>Why does Family Size exist?</h1><h2>has been recognized</h2></article>]]></description>
+            <link>https://thegrid.ai/familysizehts/why-does-family-size-exist/index.html</link>
+            <guid isPermaLink="false">85fed5d3-4b99-44ef-a2d5-04a2107a2312</guid>
+            <pubDate>Mon, 23 May 2016 00:13:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
